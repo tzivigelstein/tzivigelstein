@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: Tzivi](https://img.shields.io/twitter/follow/tzivigelstein?style=social)](https://twitter.com/tzivigelstein)
-[![Linkedin: tzivi-gelstein](https://img.shields.io/badge/-tzivi-gelstein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tzivi-gelstein-2b59a21b0/)](https://www.linkedin.com/in/tzivi-gelstein-2b59a21b0/)
+[![Linkedin: tzivi-gelstein](https://img.shields.io/badge/-tzivi-gelstein-2b59a21b0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tzivi-gelstein-2b59a21b0/)](https://www.linkedin.com/in/tzivi-gelstein-2b59a21b0/)
 [![GitHub Tzivi](https://img.shields.io/github/followers/Tzivi4?label=follow&style=social)](https://github.com/Tzivi4)
 
 
