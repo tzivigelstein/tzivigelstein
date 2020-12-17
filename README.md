@@ -1,10 +1,10 @@
 <h2> Hi, I'm Tzivi Gelstein! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Twitter: Tzivi](https://img.shields.io/twitter/follow/tzivigelstein?style=social)](https://twitter.com/tzivigelstein)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tzivi-gelstein-2b59a21b0/)](https://www.linkedin.com/in/tzivi-gelstein-2b59a21b0/)
+[![Linkedin: tzivi-gelstein](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tzivi-gelstein-2b59a21b0/)](https://www.linkedin.com/in/tzivi-gelstein-2b59a21b0/)
 [![GitHub Tzivi](https://img.shields.io/github/followers/Tzivi4?label=follow&style=social)](https://github.com/Tzivi4)
 
 
@@ -12,7 +12,7 @@
 
 ```javascript
 const tzivi = {
-  pronouns: "he" | "him",
+  pronouns: "he" || "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components, Jest],
   techCommunities: {
