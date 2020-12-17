@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: Tzivi](https://img.shields.io/twitter/follow/tzivigelstein?style=social)](https://twitter.com/tzivigelstein)
-[![Linkedin: tzivi-gelstein](https://img.shields.io/badge/tzivi-gelstein-2b59a21b0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tzivi-gelstein-2b59a21b0/)](https://www.linkedin.com/in/tzivi-gelstein-2b59a21b0/)
+[![Linkedin: tzivi-gelstein](https://img.shields.io/badge/tzivigelstein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tzivi-gelstein-2b59a21b0/)](https://www.linkedin.com/in/tzivi-gelstein-2b59a21b0/)
 [![GitHub Tzivi](https://img.shields.io/github/followers/Tzivi4?label=follow&style=social)](https://github.com/Tzivi4)
 
 
@@ -16,8 +16,8 @@ const tzivi = {
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components, Jest],
   techCommunities: {
-                        cofounder:"rentar.home"
-                      },
+                      cofounder:"rentar.home"
+                    },
  challenge: "I am doing my best to learn something new every day"
 }
 ```
