@@ -12,12 +12,8 @@
 
 ```javascript
 const tzivi = {
-  pronouns: "he" || "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components, Jest],
-  techCommunities: {
-                      cofounder:"rentar.home"
-                    },
+  tools: [React, Next, Node, Styled-Components, Jest],
  challenge: "I am doing my best to learn something new every day"
 }
 ```
