@@ -1,6 +1,6 @@
 <h2> Hi, I'm Tzivi Gelstein! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.udemy.com/">Udemy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>React developer  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Twitter: Tzivi](https://img.shields.io/twitter/follow/tzivigelstein?style=social)](https://twitter.com/tzivigelstein)
