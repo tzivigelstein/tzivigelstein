@@ -5,16 +5,23 @@
 
 [![Twitter: Tzivi](https://img.shields.io/twitter/follow/tzivigelstein?style=social)](https://twitter.com/tzivigelstein)
 [![Linkedin: tzivi-gelstein](https://img.shields.io/badge/tzivigelstein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tzivi-gelstein-2b59a21b0/)](https://www.linkedin.com/in/tzivi-gelstein-2b59a21b0/)
-[![GitHub Tzivi](https://img.shields.io/github/followers/Tzivi4?label=follow&style=social)](https://github.com/Tzivi4)
+[![GitHub Tzivi](https://img.shields.io/github/followers/tzivigelstein?label=follow&style=social)](https://github.com/tzivigelstein)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const tzivi = {
-  code: [Javascript, HTML, CSS],
-  tools: [React, Next, Node, Styled-Components, Jest],
- challenge: "I am doing my best to learn something new every day"
+  code: {
+    languages: [JavaScript, HTML, CSS],
+    libraries: [React, Node, Styled-Components],
+    frameworks: [Next],
+    testing: [Jest]
+  }
+  challenges: [
+    "I am doing my best to learn something new every day",
+    "Love to work in cool things"
+  ]
 }
 ```
 
