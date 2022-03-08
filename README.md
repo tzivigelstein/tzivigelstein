@@ -13,10 +13,10 @@
 ```javascript
 const tzivi = {
   code: {
-    languages: [JavaScript, HTML, CSS],
-    libraries: [React, Node, Styled-Components],
-    frameworks: [Next],
-    testing: [Jest]
+    languages: ["JavaScript", "HTML", "CSS"],
+    libraries: ["React", "Node", "Styled-Components"],
+    frameworks: ["NextJS"],
+    testing: ["Jest"]
   }
   challenges: [
     "I am doing my best to learn something new every day",
