@@ -13,7 +13,7 @@
 ```javascript
 const tzivi = {
   code: {
-    languages: ["JavaScript", "HTML", "CSS"],
+    languages: ["JavaScript", "Python", "Bash"],
     libraries: ["React", "Node", "Styled-Components"],
     frameworks: ["NextJS"],
     testing: ["Jest"]
